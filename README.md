@@ -49,12 +49,10 @@ Randomseed1973_changing_jobs
     個人で取り組んでいるCOVID-19_日本版(1)の分析資料。
     日本全国と都道府県別の感染者数。
     日本のAI開発コンペティションサイト『SIGNATE』から日本の都道府県別COVID19データをダウンロード、プログラミング言語pythonを使って処理してビジネスインテリジェンスツール用に変換、Microsoft Power BIにて視覚化までを行っています。
-    視覚化したデータ・分析は  
-
-    Googleデータポータル：https://datastudio.google.com/u/2/reporting/bc62963e-afca-47df-9411-6048679673ad/page/bcURB
-    Blog:http://randomseed1973.turtlewalktraveler.com/category/covid-19/japan1/
-    
-    にて公開しております。
+    視覚化したデータ・分析は    
+    Googleデータポータル：https://datastudio.google.com/u/2/reporting/bc62963e-afca-47df-9411-6048679673ad/page/bcURB  
+    Blog:http://randomseed1973.turtlewalktraveler.com/category/covid-19/japan1/  
+    にて公開しております。  
     
 
     ファイル内データ説明
@@ -69,8 +67,7 @@ Randomseed1973_changing_jobs
     日本全国の感染者数・死亡者数・回復者数・PCR検査数。  
     厚生労働省オープンデータから感染者数・死亡者数・回復者数・PCR検査数のデータをダウンロード、プログラミング言語pythonを使って処理してビジネスインテリジェンスツール用に変換、Googleデータポータルにて視覚化までを行っています。  
     視覚化したデータ・分析は  
-    Googleデータポータル1：https://datastudio.google.com/u/2/reporting/  
-75618372-9899-4dd3-bd5b-1a686b99e627/page/W7iYB    
+    Googleデータポータル：https://datastudio.google.com/u/2/reporting/75618372-9899-4dd3-bd5b-1a686b99e627/page/W7iYB     
     Blog:http://randomseed1973.turtlewalktraveler.com/category/covid-19/japan2/  
     にて公開しております。
     
