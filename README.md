@@ -69,8 +69,8 @@ Randomseed1973_changing_jobs
     日本全国の感染者数・死亡者数・回復者数・PCR検査数。  
     厚生労働省オープンデータから感染者数・死亡者数・回復者数・PCR検査数のデータをダウンロード、プログラミング言語pythonを使って処理してビジネスインテリジェンスツール用に変換、Googleデータポータルにて視覚化までを行っています。  
     視覚化したデータ・分析は  
-    Googleデータポータル：https://datastudio.google.com/u/2/reporting/75618372-9899-4dd3-bd5b-1a686b99e627/page/W7iYB
-    Blog:http://randomseed1973.turtlewalktraveler.com/category/covid-19/japan2/
+    Googleデータポータル：https://datastudio.google.com/u/2/reporting/75618372-9899-4dd3-bd5b-1a686b99e627/page/W7iYB  
+    Blog:http://randomseed1973.turtlewalktraveler.com/category/covid-19/japan2/  
     にて公開しております。
     
     ファイル内データ説明
@@ -80,22 +80,17 @@ Randomseed1973_changing_jobs
     
 
 
-4：COVID19_Worldフォルダ
-    個人で取り組んでいるCOVID-19_世界版の分析資料。
-    全国世界のの感染者数・死亡者数。
-    ジョンズホプキンズ大学のGitHubからデータをダウンロード、プログラミング言語pythonを使って処理してビジネスインテリジェンスツール用に変換、Googleデータポータルにて視覚化までを行っています。
-    視覚化したデータ・分析は  
-
+4：COVID19_Worldフォルダ  
+    個人で取り組んでいるCOVID-19_世界版の分析資料。  
+    全国世界のの感染者数・死亡者数。  
+    ジョンズホプキンズ大学のGitHubからデータをダウンロード、プログラミング言語pythonを使って処理してビジネスインテリジェンスツール用に変換、Googleデータポータルにて視覚化までを行っています。  
+    視覚化したデータ・分析は   
     Googleデータポータル：
-    https://datastudio.google.com/u/2/reporting/d4b5e00c-501e-4d61-94d2-2cc0cbf11570/page/hWDbB
-    https://datastudio.google.com/u/2/reporting/c79eae40-99ca-44ab-8544-ee9f8315037d/page/6Sl0B
-
-
-    Blog:http://randomseed1973.turtlewalktraveler.com/category/covid-19/world/
+    https://datastudio.google.com/u/2/reporting/d4b5e00c-501e-4d61-94d2-2cc0cbf11570/page/hWDbB  
+    https://datastudio.google.com/u/2/reporting/c79eae40-99ca-44ab-8544-ee9f8315037d/page/6Sl0B    
+    Blog:http://randomseed1973.turtlewalktraveler.com/category/covid-19/world/  
+    にて公開しております。  
     
-    にて公開しております。
-    
-
     ファイル内データ説明
     1：Original_Dataフォルダ(ジョンズホプキンズ大学のGitHubからダウンロードした全世界のCOVID-19のcsvデータ)
     2：COVID19_World.py(1のデータをビジネスインテリジェンスツール用に変換する為のpythonプログラム)
