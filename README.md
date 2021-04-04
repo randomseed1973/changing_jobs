@@ -64,18 +64,15 @@ Randomseed1973_changing_jobs
 
 
 
-3：COVID19_Japan_2フォルダ
-    個人で取り組んでいるCOVID-19_日本版(2)の分析資料。
-    日本全国の感染者数・死亡者数・回復者数・PCR検査数。
-    厚生労働省オープンデータから感染者数・死亡者数・回復者数・PCR検査数のデータをダウンロード、プログラミング言語pythonを使って処理してビジネスインテリジェンスツール用に変換、Googleデータポータルにて視覚化までを行っています。
+3：COVID19_Japan_2フォルダ  
+    個人で取り組んでいるCOVID-19_日本版(2)の分析資料。  
+    日本全国の感染者数・死亡者数・回復者数・PCR検査数。  
+    厚生労働省オープンデータから感染者数・死亡者数・回復者数・PCR検査数のデータをダウンロード、プログラミング言語pythonを使って処理してビジネスインテリジェンスツール用に変換、Googleデータポータルにて視覚化までを行っています。  
     視覚化したデータ・分析は  
-
     Googleデータポータル：https://datastudio.google.com/u/2/reporting/75618372-9899-4dd3-bd5b-1a686b99e627/page/W7iYB
     Blog:http://randomseed1973.turtlewalktraveler.com/category/covid-19/japan2/
-    
     にて公開しております。
     
-
     ファイル内データ説明
     1：SIGNATE COVID-19 Case Dataset - 罹患者統計.csv(SIGNATEからダウンロードした日本の都道府県別COVID19のcsvデータ)
     2：COVID19_Japan_1.py(1のデータをビジネスインテリジェンスツール用に変換する為のpythonプログラム)
